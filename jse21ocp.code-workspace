@@ -7,7 +7,7 @@
 	"settings": {
 		"github.copilot.chat.commitMessageGeneration.instructions": [
 			{
-				"text": "Use conventional commit message format."
+				"text": "Use conventional commit message format. Also include part and ch in the message.",
 			}
 		]
 	}
